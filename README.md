@@ -5,7 +5,6 @@
 Sou graduado em Sistemas de Informação e atuo com foco na implementação de sistemas e gerenciamento de demandas. Possuo experiência no desenvolvimento de websites utilizando Python e Framework Django, além de conhecimentos intermediários em banco de dados SQL e ferramentas de análise como o PowerBI. Busco sempre demonstrar proatividade e agilidade na resolução de problemas, possuindo grande facilidade de comunicação com áreas não técnicas para garantir a melhor colaboração em equipe e o atendimento ao cliente.
 
 <br/>
-<br/>
 
 <p align="center">
     <a href="http://linkedin.com/in/luiza-costaf/" target="_blank">
@@ -122,7 +121,6 @@ Sou graduado em Sistemas de Informação e atuo com foco na implementação de s
 
 ### 🎯 Objetivos
 
-Em busca de oportunidades como **Analista Júnior**, com foco em contribuir para o crescimento da empresa:
 
 - 📊 **Análise de Dados** — Em busca de crescimento profissional na área de Analista de Dados e Desenvolvedor de PowerBI.
 - 🐍 **Desenvolvimento Python** — Desenvolvimento de website com a linguagem Python e Framework Django.
@@ -140,23 +138,22 @@ Em busca de oportunidades como **Analista Júnior**, com foco em contribuir para
 
 ---
 
+<div align="center">
+
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LuizG-Costa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    align="left" 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizG-Costa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&locale=pt-br" 
-  />
-</p>
+<img 
+  alt="GitHub Stats" 
+  height="200" 
+  src="https://github-readme-stats.vercel.app/api?username=LuizG-Costa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+/>
+<img 
+  alt="Top Langs" 
+  height="200" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizG-Costa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&locale=pt-br" 
+/>
+
+</div>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
