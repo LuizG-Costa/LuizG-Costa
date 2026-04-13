@@ -4,7 +4,10 @@
 
 Sou graduado em Sistemas de Informação e atuo com foco na implementação de sistemas e gerenciamento de demandas. Possuo experiência no desenvolvimento de websites utilizando Python e Framework Django, além de conhecimentos intermediários em banco de dados SQL e ferramentas de análise como o PowerBI. Busco sempre demonstrar proatividade e agilidade na resolução de problemas, possuindo grande facilidade de comunicação com áreas não técnicas para garantir a melhor colaboração em equipe e o atendimento ao cliente.
 
-<p align="left">
+<br/>
+<br/>
+
+<p align="center">
     <a href="http://linkedin.com/in/luiza-costaf/" target="_blank">
         <img 
             alt="LinkedIn" 
@@ -73,14 +76,6 @@ Sou graduado em Sistemas de Informação e atuo com foco na implementação de s
 />
 <img 
     align="left" 
-    alt="Vue.js"
-    title="Vue.js" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Git"
     title="Git" 
     width="30px" 
@@ -101,7 +96,7 @@ Sou graduado em Sistemas de Informação e atuo com foco na implementação de s
 
 ---
 
-### 🛠️ Ferramentas & Plataformas
+ ### 🛠️ Ferramentas & Plataformas
 
 <img 
     align="left" 
