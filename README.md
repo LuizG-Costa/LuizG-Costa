@@ -7,14 +7,14 @@ Sou graduado em Sistemas de Informação e atuo com foco na implementação de s
 <br/>
 
 <p align="center">
-    <a href="http://linkedin.com/in/luiza-costaf/" target="_blank">
+    <a href="https://www.linkedin.com/in/luizg-costaf/" target="_blank">
         <img 
             alt="LinkedIn" 
             title="Me conecte no LinkedIn" 
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a66c2"
         />
     </a>
-    <a href="mailto:luizcostafreitas@gmail.com">
+    <a href="mailto:  luizcostafreitas@gmail.com">
         <img 
             alt="Email" 
             title="Me envie um email" 
