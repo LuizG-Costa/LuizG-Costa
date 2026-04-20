@@ -132,7 +132,7 @@ Sou graduado em Sistemas de Informação e atuo com foco na implementação de s
 
 | Período | Cargo | Empresa | Principais Atividades |
 |---|---|---|---|
-| Ago 2025 - Atual | Analista de Suporte | ECP BRASIL | Atendimento técnico ao cliente para suporte ao sistema TOTVS RM; construção de website com Python, Django e PostgreSQL; construção de relatórios, cubos e planilhas. |
+| Ago 2025 - Mar 2026 | Analista de Suporte | ECP BRASIL | Atendimento técnico ao cliente para suporte ao sistema TOTVS RM; construção de website com Python, Django e PostgreSQL; construção de relatórios, cubos e planilhas. |
 | Jul 2023 - Mar 2025 | Analista de Suporte | CAJUPE | Atendimento técnico ao cliente para suporte a sistema, responsabilidade pelas reuniões de implementação e desenvolvimento de melhorias utilizando Vue.js e APIs via Postman. |
 | Out 2022 - Jun 2023 | Estagiário | BB Previdência | Suporte em infraestrutura de TI e execução de atividades de atendimento e suporte aos colaboradores. |
 
@@ -142,20 +142,20 @@ Sou graduado em Sistemas de Informação e atuo com foco na implementação de s
 
 ### 📊 Estatísticas
 
+</div>
 <img 
   alt="GitHub Stats" 
-  height="200" 
+  height="300" 
   src="https://github-readme-stats.vercel.app/api?username=LuizG-Costa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
 />
 <img 
   alt="Top Langs" 
-  height="200" 
+  height="300" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizG-Costa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&locale=pt-br" 
 />
 
-</div>
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/>
 
 ---
 
